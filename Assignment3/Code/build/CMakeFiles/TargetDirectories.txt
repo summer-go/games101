@@ -1,0 +1,3 @@
+/Users/baidu/Documents/study/games101/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
+/Users/baidu/Documents/study/games101/Assignment3/Code/build/CMakeFiles/edit_cache.dir
+/Users/baidu/Documents/study/games101/Assignment3/Code/build/CMakeFiles/Rasterizer.dir
